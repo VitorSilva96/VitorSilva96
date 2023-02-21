@@ -6,7 +6,7 @@
   [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:vitor_sabinodasilva@hotmail.com)](mailto:vitor_sabinodasilva@hotmail.com)
 </div>
 
-An enthusiast of the world of analysis and data science, I'm fascinated by how data can show what's beyond our eyes.
+An enthusiast of the world of analytics and data science, I'm fascinated by how data can show what's beyond our eyes.
 I have a degree in Chemistry and currently studying data science.
 
 
